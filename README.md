@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Mahmoud Maher</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Full+Stack+Web+Developer;Next.js+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Frontend+Web+Developer;Next.js+%7C+React.js+%7C+JavaScript;Always+Learning+New+Tech" alt="Typing SVG" />
 </p>
 
 ---
