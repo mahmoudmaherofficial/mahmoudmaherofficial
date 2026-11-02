@@ -1,55 +1,51 @@
-<h1 align="center">Hey 👋, I'm Mahmoud Maher</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Frontend+Web+Developer;HTML+%7C+CSS+%7C+TailwindCSS;Next.js+%7C+React.js+%7C+JavaScript;Always+Learning+New+Tech" alt="Typing SVG" />
+# Mahmoud Maher
+
+### I turn paper-and-Excel workflows into web apps teams use every day.
+
+**Front-End Developer** · Next.js · React · TypeScript
+
+[Portfolio](https://mahmoudmaher.site) · [LinkedIn](https://www.linkedin.com/in/mahmoudmaherofficial2/) · [Email](mailto:mahmoudmaherofficial@gmail.com)
+
+</div>
+
+---
+
+**10+ client projects shipped since 2024** · dashboards used daily by teams of **10–50 people** · typical delivery in **2–4 weeks**
+
+Most of that code lives in private client repos, so here's the work itself.
+
+### Selected work
+
+**Sports performance analytics platform** — sole developer
+
+A sports club tracks 100+ athletes across multiple sports, with KPI dashboards, athlete profiles, role-based access, and one-click PDF/Excel reports. It replaced scattered spreadsheets with a single source of truth.
+
+`Next.js` `TypeScript` `shadcn/ui` `Recharts` `NestJS` `Prisma` `MySQL`
+
+**Team activity tracker**
+
+A team of 25+ logs its work here every day. It's self-hosted on the client's server with Docker, and covers task tracking, charts, search and filters, and secure auth with refresh tokens in HTTP-only cookies.
+
+`Next.js` `TanStack Query` `React Hook Form` `Zod` `Express` `MongoDB`
+
+**Corporate website**
+
+A bilingual Arabic/English site with proper RTL, built for SEO and taken all the way to launch.
+
+`Next.js` `Tailwind`
+
+### Currently building
+
+A bilingual (Arabic RTL / English) admin dashboard: open source, with real RTL/LTR switching, data tables, and charts.
+
+### Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nestjs,nodejs,prisma,mysql,mongodb,docker,nginx,electron&theme=dark" alt="Next.js, React, TypeScript, Tailwind, NestJS, Node.js, Prisma, MySQL, MongoDB, Docker, Nginx, Electron" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me  
-
-- 🚀 Passionate about **Web Development**  
-- 🌱 Currently diving deeper into **MERN & Next.js**  
-- 💡 Love exploring **new technologies & clean code**  
-- 🎯 Open for **internships & collaborations**  
-
----
-
-## ⚡ Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=next,react,nodejs,express,mongodb,tailwind,js,ts,git,github,vscode,postman&theme=dark" />
-</p>
-
----
-
-## 🌐 Connect With Me  
-
-<p align="center">
-  <a href="mailto:mahmoudmaherofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mahmoudmaherofficial2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/mahmoudmaherofficial"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudmaherofficial&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudmaherofficial&theme=tokyonight" height="165"/>
-</p>
-
----
-
-## ✨ Quote of the Day  
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:9B59B6&height=120&section=footer"/>
-</p>
+**Open to Front-End roles in Egypt and the Gulf (remote or relocation).** The fastest way to reach me is [email](mailto:mahmoudmaherofficial@gmail.com).
